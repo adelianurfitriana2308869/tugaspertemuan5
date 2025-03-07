@@ -13,7 +13,7 @@ public class soalSatu {
     
         cetakPenjumlahan(N);
         
-        inputObjk.close();
+        
     }
     
     public static void cetakPenjumlahan(int N) {
